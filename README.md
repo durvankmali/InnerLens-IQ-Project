@@ -50,42 +50,35 @@ The four areas cover wellbeing and emotions, discipline and growth, connection a
 
 ## Demo and screenshots
 
-The demonstration follows the user journey from the landing page to questionnaire completion, result interpretation and report download. Fictional responses are used for demonstration so that participant records are not exposed.
+### Application walkthrough
 
-<!-- VIDEO: After uploading your recording, insert its link below. -->
+[**Open or download the demonstration video — MP4, approximately 36 seconds**](assets/demo/Demo2.mp4)
 
-[Watch the application walkthrough](
-
-https://github.com/user-attachments/assets/d186b255-aca1-44b1-813b-604f34f5e7b3
-
-)
+The recording shows application navigation, questionnaire interaction, response review, the reflection snapshot and research views. Interpret all displayed outputs using the scope and limitations described in this README.
 
 ### Landing page
 
 A concise introduction, clear entry points and an optional fictional demonstration help users understand where to begin.
 
-[InnerLensIQ landing page](\Demo\Homepage..png)
+![InnerLensIQ landing page](assets/screenshots/Homepage.png)
 
+### Guided questionnaire and validation
 
-### Guided questionnaire
+The questionnaire presents one area at a time, with visible progress and response validation. This screenshot captures a missing-response notice, illustrating how the interface guides users before continuing.
 
-The questionnaire presents one area at a time. Answers begin unselected, progress is visible and missing responses are checked before continuing.
+![Guided questionnaire with a missing-response validation notice](assets/screenshots/Data_Collection.png)
 
-[Guided questionnaire and progress tracking](/Demo/Data_Collection.png)
+### How it works
 
+The explanation page describes the relationship between user responses, calculated summaries, experimental inference and optional reflection activities.
 
-### Reflection snapshot
-
-The results view presents four response summaries, explanatory charts, a separate experimental model result and optional next steps.
-
-[Reflection summaries and results](Demo/Reflection.jpeg)
-
+![InnerLensIQ explanation page](assets/screenshots/Working.png)
 
 ### Research studio
 
-The research view separates real-data evaluation from synthetic demonstrations and explains the limits of the available evidence.
+The research view presents development evaluation results and separates real-data evidence from synthetic demonstrations.
 
-[Research studio and evaluation overview](https://github.com/durvankmali/InnerLens-IQ-Project/blob/main/Demo/Research_Studio.png)
+![Research studio showing nested evaluation results](assets/screenshots/Research_Studio.png)
 
 ## Key features
 
