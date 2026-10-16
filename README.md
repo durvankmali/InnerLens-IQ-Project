@@ -64,28 +64,32 @@ https://github.com/user-attachments/assets/d186b255-aca1-44b1-813b-604f34f5e7b3
 
 A concise introduction, clear entry points and an optional fictional demonstration help users understand where to begin.
 
-[InnerLensIQ landing page](Demo/HomePage..png)
+[InnerLensIQ landing page](<img width="1920" height="1761" alt="Homepage" src="https://github.com/user-attachments/assets/2f1f2a24-9e65-4f70-9f1b-a91efeee46ef" />
+)
 
 
 ### Guided questionnaire
 
 The questionnaire presents one area at a time. Answers begin unselected, progress is visible and missing responses are checked before continuing.
 
-[Guided questionnaire and progress tracking](Demo/Data_Collection.png)
+[Guided questionnaire and progress tracking](<img width="1920" height="1872" alt="Data_Collection" src="https://github.com/user-attachments/assets/9ee40a26-0416-4442-8a99-10895bd32015" />
+)
 
 
 ### Reflection snapshot
 
 The results view presents four response summaries, explanatory charts, a separate experimental model result and optional next steps.
 
-[Reflection summaries and results](Demo/Reflection.jpeg)
+[Reflection summaries and results](<img width="1600" height="751" alt="Reflection" src="https://github.com/user-attachments/assets/a88c94ac-3ead-407c-b691-a69e0d3e5d20" />
+)
 
 
 ### Research studio
 
 The research view separates real-data evaluation from synthetic demonstrations and explains the limits of the available evidence.
 
-[Research studio and evaluation overview](Demo/Research_Studio.png)
+[Research studio and evaluation overview](<img width="1920" height="2171" alt="Research_Studio" src="https://github.com/user-attachments/assets/2659be72-eb66-4516-a415-71ff22a13c26" />
+)
 
 ## Key features
 
